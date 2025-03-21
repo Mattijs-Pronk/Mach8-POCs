@@ -1,0 +1,156 @@
+{
+  "Category": "Laptop",
+  "PriceRange": "Mixed",
+  "features": [
+    {
+      "featureName": "Performance",
+      "importance": "Primary",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Indicates overall system speed and responsiveness."
+    },
+    {
+      "featureName": "Processor Type",
+      "importance": "Primary",
+      "tierOptions": [
+        "Intel",
+        "AMD",
+        "Apple"
+      ],
+      "explanation": "Impacts processing power and efficiency across applications."
+    },
+    {
+      "featureName": "Operating System",
+      "importance": "Primary",
+      "tierOptions": [
+        "Windows",
+        "ChromeOS",
+        "macOS"
+      ],
+      "explanation": "Determines software compatibility and user environment."
+    },
+    {
+      "featureName": "Memory (RAM)",
+      "importance": "Primary",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Higher memory capacity improves multitasking and performance."
+    },
+    {
+      "featureName": "Storage",
+      "importance": "Primary",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Influences the volume of data, programs, or media that can be stored."
+    },
+    {
+      "featureName": "Build Quality",
+      "importance": "Primary",
+      "tierOptions": [
+        "Basic",
+        "Standard",
+        "Premium"
+      ],
+      "explanation": "Reflects the durability, materials, and overall craftsmanship."
+    },
+    {
+      "featureName": "Display Size",
+      "importance": "Primary",
+      "tierOptions": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "explanation": "Affects portability and viewing experience."
+    },
+    {
+      "featureName": "Display Type",
+      "importance": "Primary",
+      "tierOptions": [
+        "IPS",
+        "TN",
+        "OLED",
+        "LiquidRetina"
+      ],
+      "explanation": "Impacts color accuracy, viewing angles, and user experience."
+    },
+    {
+      "featureName": "Battery Life",
+      "importance": "Primary",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Indicates how long the device can operate on a full charge."
+    },
+    {
+      "featureName": "Weight",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Light",
+        "Moderate",
+        "Heavy"
+      ],
+      "explanation": "Affects portability and comfort during transport."
+    },
+    {
+      "featureName": "Security",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Indicates features such as TPM, fingerprint sensors, or advanced encryption."
+    },
+    {
+      "featureName": "Color",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Neutral",
+        "Bold",
+        "Dark"
+      ],
+      "explanation": "Impacts aesthetic appeal and style preference."
+    },
+    {
+      "featureName": "Ports & Connectivity",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Limited",
+        "Moderate",
+        "Extended"
+      ],
+      "explanation": "Defines the variety and number of available connection options."
+    },
+    {
+      "featureName": "Touchscreen",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Yes",
+        "No"
+      ],
+      "explanation": "Allows direct screen interaction for easier navigation."
+    },
+    {
+      "featureName": "Keyboard Features",
+      "importance": "Secondary",
+      "tierOptions": [
+        "Basic",
+        "Standard",
+        "Premium"
+      ],
+      "explanation": "Includes elements such as backlighting, numeric keypad, or specialized switches."
+    }
+  ]
+}

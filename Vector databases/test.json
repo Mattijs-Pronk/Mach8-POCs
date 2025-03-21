@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Acer Chromebook 317 CB317-1H-C1SE",
+        "description": "Acer Chromebook 17.3 inch, Intel Celeron N4500 (2 cores, 1.1 GHz, turbo 2.8 GHz), 4GB RAM, 64GB eMMC opslag, Intel UHD Graphics, Full HD IPS scherm, Chrome OS. Geschikt voor internetten, films kijken en tekstverwerken.",
+        "cpu": "Intel Celeron N4500",
+        "ram": 4,
+        "gpu": "Intel UHD Graphics",
+        "storage": "64GB eMMC",
+        "screen": "17.3 inch Full HD IPS",
+        "os": "Chrome OS",
+        "recommended_usage": [
+            "internet",
+            "films kijken",
+            "tekstverwerken"
+        ],
+        "price": 399,
+        "url": "https://www.coolblue.nl/product/886844/acer-chromebook-317-cb317-1h-c1se.html"
+    },
+    {
+        "name": "Acer Chromebook 317 CB317-1H-C6RN",
+        "description": "Acer Chromebook 17.3 inch, Intel Celeron N5100 (4 cores, 1.1 GHz, turbo 2.8 GHz), 8GB RAM, 128GB eMMC opslag, Intel UHD Graphics, Full HD IPS scherm, Chrome OS. Geschikt voor internetten, films kijken en tekstverwerken.",
+        "cpu": "Intel Celeron N5100",
+        "ram": 8,
+        "gpu": "Intel UHD Graphics",
+        "storage": "128GB eMMC",
+        "screen": "17.3 inch Full HD IPS",
+        "os": "Chrome OS",
+        "recommended_usage": [
+            "internet",
+            "films kijken",
+            "tekstverwerken"
+        ],
+        "price": 469,
+        "url": "https://www.coolblue.nl/product/886845/acer-chromebook-317-cb317-1h-c6rn.html"
+    },
+    {
+        "name": "Lenovo IdeaPad 3 Chromebook 15IJL6 82N40027MH",
+        "description": "Lenovo Chromebook 15.6 inch, Intel Pentium Silver N6000 (4 cores, 1.1 GHz, turbo 3.3 GHz), 8GB RAM, 128GB eMMC opslag, Intel UHD Graphics, Full HD IPS scherm, Chrome OS. Geschikt voor internetten, films kijken en tekstverwerken.",
+        "cpu": "Intel Pentium Silver N6000",
+        "ram": 8,
+        "gpu": "Intel UHD Graphics",
+        "storage": "128GB eMMC",
+        "screen": "15.6 inch Full HD IPS",
+        "os": "Chrome OS",
+        "recommended_usage": [
+            "internet",
+            "films kijken",
+            "tekstverwerken"
+        ],
+        "price": 429,
+        "url": "https://www.coolblue.nl/product/898351/lenovo-ideapad-3-chromebook-15ijl6-82n40027mh.html"
+    },
+    {
+        "name": "Apple MacBook Air (2022) M2 16GB/256GB Space Gray",
+        "description": "Apple MacBook Air 13.6 inch, Apple M2-chip (8-core CPU, 8-core GPU), 16GB RAM, 256GB SSD opslag, Liquid Retina scherm, macOS. Geschikt voor internetten, films kijken, foto’s bewerken, presentaties en zakelijk gebruik.",
+        "cpu": "Apple M2-chip (8-core CPU)",
+        "ram": 16,
+        "gpu": "Apple M2-chip (8-core GPU)",
+        "storage": "256GB SSD",
+        "screen": "13.6 inch Liquid Retina",
+        "os": "macOS",
+        "recommended_usage": [
+            "internet",
+            "films kijken",
+            "foto’s bewerken",
+            "presentaties",
+            "zakelijk gebruik"
+        ],
+        "price": 1209,
+        "url": "https://www.coolblue.nl/product/910584/apple-macbook-air-2022-m2-8-core-cpu-8-core-gpu-16gb-256gb-space-gray-qwerty.html"
+    },
+    {
+        "name": "Apple MacBook Air (2022) M2 16GB/256GB Blauw",
+        "description": "Apple MacBook Air 13.6 inch, Apple M2-chip (8-core CPU, 8-core GPU), 16GB RAM, 256GB SSD opslag, Liquid Retina scherm, macOS. Geschikt voor internetten, films kijken, foto’s bewerken, presentaties en zakelijk gebruik.",
+        "cpu": "Apple M2-chip (8-core CPU)",
+        "ram": 16,
+        "gpu": "Apple M2-chip (8-core GPU)",
+        "storage": "256GB SSD",
+        "screen": "13.6 inch Liquid Retina",
+        "os": "macOS",
+        "recommended_usage": [
+            "internet",
+            "films kijken",
+            "foto’s bewerken",
+            "presentaties",
+            "zakelijk gebruik"
+        ],
+        "price": 1169,
+        "url": "https://www.coolblue.nl/product/910613/apple-macbook-air-2022-m2-8-core-cpu-8-core-gpu-16gb-256gb-blauw-qwerty.html"
+    }
+]

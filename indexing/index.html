@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+            background: #fff;
+            display: flex;
+            align-items: center;
+        }
+
+        .product img {
+            width: 100px;
+            height: 100px;
+            margin-right: 15px;
+            border-radius: 5px;
+        }
+
+        .product-details {
+            flex: 1;
+        }
+
+        .product a {
+            text-decoration: none;
+            color: blue;
+            font-weight: bold;
+        }
+
+        .product a:hover {
+            text-decoration: underline;
+        }
+
+        .price {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Product Listings</h1>
+        <p><a href="sitemap.xml">View Sitemap</a></p>
+        <div class="product">
+            <img src="https://via.placeholder.com/100" alt="Product 1">
+            <div class="product-details">
+                <h2>Product 1</h2>
+                <p>Description for product 1.</p>
+                <p class="price">$19.99</p>
+                <a href="https://example.com/product1" class="product-link">View Product</a>
+            </div>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/100" alt="Product 2">
+            <div class="product-details">
+                <h2>Product 2</h2>
+                <p>Description for product 2.</p>
+                <p class="price">$29.99</p>
+                <a href="https://example.com/product2" class="product-link">View Product</a>
+            </div>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/100" alt="Product 3">
+            <div class="product-details">
+                <h2>Product 3</h2>
+                <p>Description for product 3.</p>
+                <p class="price">$39.99</p>
+                <a href="https://example.com/product3" class="product-link">View Product</a>
+            </div>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/100" alt="Product 4">
+            <div class="product-details">
+                <h2>Product 4</h2>
+                <p>Description for product 4.</p>
+                <p class="price">$49.99</p>
+                <a href="https://example.com/product4" class="product-link">View Product</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

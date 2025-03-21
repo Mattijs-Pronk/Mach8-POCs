@@ -1,0 +1,134 @@
+{
+  "Category": "Laptop",
+  "PriceRange": "Mixed",
+  "features": [
+    {
+      "featureName": "Performance",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Indicates the processing power and efficiency for handling demanding tasks and multitasking."
+    },
+    {
+      "featureName": "Memory Capacity",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Determines the amount of RAM available, which impacts system responsiveness and multitasking abilities."
+    },
+    {
+      "featureName": "Storage Capacity",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Reflects the available space for files and applications, affecting overall usage capabilities."
+    },
+    {
+      "featureName": "Graphics Performance",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Represents the device's ability to render visuals and handle graphics-intensive tasks."
+    },
+    {
+      "featureName": "Display Quality",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Determines screen resolution, panel type, and overall visual clarity and color accuracy."
+    },
+    {
+      "featureName": "Battery Life",
+      "tierOptions": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "explanation": "Indicates how long the device can operate on a single charge, impacting portability and continuous use."
+    },
+    {
+      "featureName": "Build Quality",
+      "tierOptions": [
+        "Basic",
+        "Standard",
+        "Premium"
+      ],
+      "explanation": "Reflects the durability, material quality, and overall construction of the product."
+    },
+    {
+      "featureName": "Operating System",
+      "tierOptions": [
+        "Windows",
+        "macOS",
+        "ChromeOS",
+        "Linux",
+        "Other"
+      ],
+      "explanation": "Defines the software environment and user interface ecosystem that the product offers."
+    },
+    {
+      "featureName": "Connectivity Options",
+      "tierOptions": [
+        "Basic",
+        "Standard",
+        "Advanced"
+      ],
+      "explanation": "Denotes the diversity and modernity of connection ports and wireless features, including USB types, Bluetooth, and video outputs."
+    },
+    {
+      "featureName": "Portability",
+      "tierOptions": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "explanation": "Assesses ease of transportation based on dimensions and weight, impacting overall mobility."
+    },
+    {
+      "featureName": "Design Aesthetics",
+      "tierOptions": [
+        "Basic",
+        "Modern",
+        "Elegant"
+      ],
+      "explanation": "Represents the visual appeal, color, material finish, and overall style of the product."
+    },
+    {
+      "featureName": "Additional Features",
+      "tierOptions": [
+        "None",
+        "Standard",
+        "Advanced"
+      ],
+      "explanation": "Includes supplementary functionalities such as touch capability, keyboard backlight, fingerprint sensors, and other smart features."
+    },
+    {
+      "featureName": "Audio & Camera",
+      "tierOptions": [
+        "Basic",
+        "Standard",
+        "Enhanced"
+      ],
+      "explanation": "Reflects the quality of built-in speakers, microphone, and camera, which affects multimedia and communication experiences."
+    },
+    {
+      "featureName": "Warranty & Service",
+      "tierOptions": [
+        "Limited",
+        "Standard",
+        "Extensive"
+      ],
+      "explanation": "Indicates the level and duration of after-sales support, including warranty periods and service policies."
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+[
+  {
+    "Category": "Laptop",
+    "Product name": "Acer Chromebook 317 CB317-1H-C1SE",
+    "Price": "399,-",
+    "Price indication": "Cheap",
+    "features": [
+      {
+        "featureName": "Performance",
+        "tier": "Low",
+        "explanation": "The Acer Chromebook 317 is equipped with an Intel Celeron N4500 processor, which is suitable for basic tasks such as streaming films, browsing the internet, and text processing."
+      },
+      {
+        "featureName": "OperatingSystem",
+        "tier": "ChromeOS",
+        "explanation": "Running on Google Chrome OS, this laptop offers a user-friendly interface and seamless integration with Google services, making it ideal for web-based applications."
+      },
+      {
+        "featureName": "Memory",
+        "tier": "Low",
+        "explanation": "With 4 GB of RAM, the device can handle basic multitasking, suitable for light usage scenarios."
+      },
+      {
+        "featureName": "Storage",
+        "tier": "Low",
+        "explanation": "The 64 GB eMMC storage provides sufficient space for essential files and applications, although it may require external storage for larger files."
+      },
+      {
+        "featureName": "BuildQuality",
+        "tier": "Basic",
+        "explanation": "The laptop features a basic build quality, making it lightweight and portable, suitable for everyday use."
+      },
+      {
+        "featureName": "ScreenSize",
+        "tier": "Large",
+        "explanation": "With a 17.3-inch display, the Chromebook offers a spacious viewing area, enhancing the experience for watching movies and working on documents."
+      },
+      {
+        "featureName": "BatteryLife",
+        "tier": "Low",
+        "explanation": "The battery lasts approximately 4.5 hours, which is adequate for short sessions but may require frequent charging for extended use."
+      },
+      {
+        "featureName": "Weight",
+        "tier": "Moderate",
+        "explanation": "Weighing 2.2 kg, this laptop is moderately portable, making it suitable for users who need to carry it occasionally."
+      },
+      {
+        "featureName": "ScreenResolution",
+        "tier": "FHD",
+        "explanation": "The Full HD (1080p) resolution ensures clear and sharp visuals, enhancing the viewing experience for videos and images."
+      },
+      {
+        "featureName": "ScreenPanel",
+        "tier": "IPS",
+        "explanation": "The IPS panel technology provides better color accuracy and wider viewing angles, making it ideal for collaborative work."
+      },
+      {
+        "featureName": "RefreshRate",
+        "tier": "Low",
+        "explanation": "With a refresh rate of 60 Hz, the screen delivers standard performance for everyday tasks and media consumption."
+      },
+      {
+        "featureName": "KeyboardFeatures",
+        "tier": "Basic",
+        "explanation": "The laptop features a basic keyboard layout without backlighting, suitable for general typing tasks."
+      },
+      {
+        "featureName": "Touchscreen",
+        "tier": "No",
+        "explanation": "This model does not support touchscreen functionality, focusing instead on traditional laptop use."
+      },
+      {
+        "featureName": "Connectivity",
+        "tier": "Standard",
+        "explanation": "The device includes standard USB-A and USB-C ports, providing essential connectivity options for peripherals and charging."
+      },
+      {
+        "featureName": "Security",
+        "tier": "Basic",
+        "explanation": "The laptop includes basic security features such as a TPM chip, ensuring a level of data protection."
+      },
+      {
+        "featureName": "DesignStyle",
+        "tier": "Casual",
+        "explanation": "The design is casual and functional, appealing to users looking for a straightforward laptop for everyday tasks."
+      },
+      {
+        "featureName": "Color",
+        "tier": "Silver",
+        "explanation": "The laptop is available in a sleek silver color, providing a modern and professional appearance."
+      }
+    ]
+  },
+  {
+    "Category": "Laptop",
+    "Product name": "Acer Chromebook 317 CB317-1H-C6RN",
+    "Price": "469,-",
+    "Price indication": "Medium",
+    "features": [
+      {
+        "featureName": "Performance",
+        "tier": "Low",
+        "explanation": "The Acer Chromebook 317 is equipped with an Intel Celeron N5100 processor, suitable for basic tasks such as streaming and web browsing, making it ideal for casual users."
+      },
+      {
+        "featureName": "OperatingSystem",
+        "tier": "ChromeOS",
+        "explanation": "Running on Google Chrome OS, this laptop offers a user-friendly interface and seamless integration with Google services, perfect for internet-based tasks."
+      },
+      {
+        "featureName": "Memory",
+        "tier": "Medium",
+        "explanation": "With 8 GB of RAM, the device can handle multiple applications simultaneously, providing a smooth experience for everyday tasks."
+      },
+      {
+        "featureName": "Storage",
+        "tier": "Medium",
+        "explanation": "The 128 GB eMMC storage offers sufficient space for documents and media, while also ensuring quick boot times and application launches."
+      },
+      {
+        "featureName": "BuildQuality",
+        "tier": "Basic",
+        "explanation": "Constructed with plastic materials, the build quality is adequate for everyday use but may not withstand heavy wear and tear."
+      },
+      {
+        "featureName": "ScreenSize",
+        "tier": "Large",
+        "explanation": "The 17.3-inch display provides ample screen real estate for watching movies and working on documents, enhancing the overall viewing experience."
+      },
+      {
+        "featureName": "BatteryLife",
+        "tier": "Low",
+        "explanation": "With a battery life of 4.5 hours, this laptop is suitable for short sessions away from a power source, making it less ideal for extended use."
+      },
+      {
+        "featureName": "Weight",
+        "tier": "Moderate",
+        "explanation": "Weighing 2.2 kg, the laptop is moderately portable, making it manageable for users who need to carry it occasionally."
+      },
+      {
+        "featureName": "ScreenResolution",
+        "tier": "FHD",
+        "explanation": "The Full HD (1080p) resolution ensures clear and sharp visuals, enhancing the experience for streaming and browsing."
+      },
+      {
+        "featureName": "ScreenPanel",
+        "tier": "IPS",
+        "explanation": "Featuring an IPS panel, the display offers better color accuracy and wider viewing angles, making it suitable for collaborative work."
+      },
+      {
+        "featureName": "RefreshRate",
+        "tier": "Low",
+        "explanation": "With a refresh rate of 60 Hz, the screen provides standard performance for everyday tasks, though it may not be ideal for fast-paced gaming."
+      },
+      {
+        "featureName": "KeyboardFeatures",
+        "tier": "Basic",
+        "explanation": "The keyboard is a standard layout without backlighting, suitable for basic typing tasks but lacking advanced features."
+      },
+      {
+        "featureName": "Touchscreen",
+        "tier": "No",
+        "explanation": "This model does not support touchscreen functionality, which may limit interaction options for some users."
+      },
+      {
+        "featureName": "Connectivity",
+        "tier": "Standard",
+        "explanation": "Equipped with multiple USB ports and Bluetooth 5.0, the laptop offers decent connectivity options for peripherals and accessories."
+      },
+      {
+        "featureName": "Security",
+        "tier": "Basic",
+        "explanation": "The laptop includes basic security features like a TPM chip, providing a level of protection for user data."
+      },
+      {
+        "featureName": "DesignStyle",
+        "tier": "Casual",
+        "explanation": "The design is casual and functional, appealing to users looking for a straightforward laptop for everyday tasks."
+      },
+      {
+        "featureName": "Color",
+        "tier": "Silver",
+        "explanation": "The laptop is available in a sleek silver color, adding a modern touch to its appearance."
+      }
+    ]
+  },
+  {
+    "Category": "Laptop",
+    "ProductName": "Lenovo IdeaPad 3 Chromebook 15IJL6 82N40027MH",
+    "Price": "429,-",
+    "PriceIndication": "Medium",
+    "features": [
+      {
+        "featureName": "Performance",
+        "tier": "Low",
+        "explanation": "The Lenovo IdeaPad 3 is equipped with an Intel Pentium Silver processor, suitable for basic tasks such as streaming and web browsing, making it ideal for casual users."
+      },
+      {
+        "featureName": "OperatingSystem",
+        "tier": "ChromeOS",
+        "explanation": "Running on Google Chrome OS, this laptop offers a user-friendly interface and seamless integration with Google services, perfect for internet-based tasks."
+      },
+      {
+        "featureName": "Memory",
+        "tier": "Medium",
+        "explanation": "With 8 GB of RAM, this laptop provides adequate memory for multitasking and running applications smoothly, enhancing user experience."
+      },
+      {
+        "featureName": "Storage",
+        "tier": "Low",
+        "explanation": "The 128 GB eMMC storage is sufficient for basic file storage and cloud-based applications, catering to users who primarily use online services."
+      },
+      {
+        "featureName": "BuildQuality",
+        "tier": "Basic",
+        "explanation": "Constructed with plastic materials, the build quality is basic, suitable for everyday use but may not withstand heavy wear and tear."
+      },
+      {
+        "featureName": "ScreenSize",
+        "tier": "Large",
+        "explanation": "The 15.6-inch display provides ample screen real estate for watching movies and working on documents, enhancing productivity and entertainment."
+      },
+      {
+        "featureName": "BatteryLife",
+        "tier": "High",
+        "explanation": "With a battery life of up to 10 hours, this laptop ensures extended usage without frequent recharging, ideal for users on the go."
+      },
+      {
+        "featureName": "Weight",
+        "tier": "Light",
+        "explanation": "Weighing only 1.58 kg, this laptop is lightweight and portable, making it easy to carry around for work or leisure."
+      },
+      {
+        "featureName": "ScreenResolution",
+        "tier": "FHD",
+        "explanation": "The Full HD (1080p) resolution delivers sharp and clear visuals, enhancing the viewing experience for movies and online content."
+      },
+      {
+        "featureName": "ScreenPanel",
+        "tier": "IPS",
+        "explanation": "Featuring an IPS panel, the display offers better color accuracy and wider viewing angles, improving the overall visual experience."
+      },
+      {
+        "featureName": "RefreshRate",
+        "tier": "Low",
+        "explanation": "With a refresh rate of 60 Hz, the screen provides standard performance for everyday tasks, suitable for casual use."
+      },
+      {
+        "featureName": "KeyboardFeatures",
+        "tier": "Basic",
+        "explanation": "The keyboard is standard without backlighting or mechanical features, suitable for basic typing tasks."
+      },
+      {
+        "featureName": "Touchscreen",
+        "tier": "No",
+        "explanation": "This model does not support touchscreen functionality, which may limit interaction options for some users."
+      },
+      {
+        "featureName": "Connectivity",
+        "tier": "Standard",
+        "explanation": "Equipped with standard USB-A and USB-C ports, along with HDMI, this laptop offers essential connectivity options for peripherals and displays."
+      },
+      {
+        "featureName": "Security",
+        "tier": "Basic",
+        "explanation": "The laptop includes basic security features, suitable for general use but lacking advanced measures like fingerprint sensors."
+      },
+      {
+        "featureName": "DesignStyle",
+        "tier": "Casual",
+        "explanation": "The design is casual and functional, appealing to users looking for a practical laptop for everyday tasks."
+      },
+      {
+        "featureName": "Color",
+        "tier": "Silver",
+        "explanation": "Available in a sleek silver color, this laptop offers a modern and stylish appearance."
+      }
+    ]
+  },
+  {
+    "Category": "Laptop",
+    "Product name": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/256GB Space Gray QWERTY",
+    "Price": "1.209,-",
+    "Price indication": "Expensive",
+    "features": [
+      {
+        "featureName": "Performance",
+        "tier": "High",
+        "explanation": "With the Apple M2-chip featuring an 8-core CPU and GPU, this laptop delivers top-tier performance, making it ideal for demanding tasks like video editing and gaming."
+      },
+      {
+        "featureName": "OperatingSystem",
+        "tier": "macOS",
+        "explanation": "Running on macOS, this laptop provides a seamless user experience with robust app compatibility and a user-friendly interface."
+      },
+      {
+        "featureName": "Memory",
+        "tier": "High",
+        "explanation": "Equipped with 16 GB of RAM, this laptop ensures smooth multitasking and efficient performance for various applications."
+      },
+      {
+        "featureName": "Storage",
+        "tier": "Medium",
+        "explanation": "The 256 GB SSD storage offers quick access to files and applications, though it may require external storage for larger media libraries."
+      },
+      {
+        "featureName": "BuildQuality",
+        "tier": "Standard",
+        "explanation": "Constructed with a metal chassis, this laptop provides a solid build quality that balances durability and portability."
+      },
+      {
+        "featureName": "ScreenSize",
+        "tier": "Medium",
+        "explanation": "The 13.6-inch display strikes a balance between portability and usability, making it suitable for both work and entertainment."
+      },
+      {
+        "featureName": "BatteryLife",
+        "tier": "High",
+        "explanation": "With an impressive 18-hour battery life, this laptop allows for extended use without the need for frequent recharging."
+      },
+      {
+        "featureName": "Weight",
+        "tier": "Light",
+        "explanation": "Weighing only 1.24 kg, this laptop is highly portable, making it easy to carry for on-the-go use."
+      },
+      {
+        "featureName": "ScreenResolution",
+        "tier": "2K",
+        "explanation": "The Liquid Retina display with a resolution of 2560 x 1664 pixels provides stunning visuals and sharp image quality."
+      },
+      {
+        "featureName": "ScreenPanel",
+        "tier": "IPS",
+        "explanation": "Featuring an IPS panel, this laptop offers wide viewing angles and vibrant colors, enhancing the overall visual experience."
+      },
+      {
+        "featureName": "RefreshRate",
+        "tier": "Medium",
+        "explanation": "With a refresh rate of 60 Hz, the display provides smooth visuals for everyday tasks and media consumption."
+      },
+      {
+        "featureName": "KeyboardFeatures",
+        "tier": "Backlit",
+        "explanation": "The backlit keyboard allows for comfortable typing in low-light conditions, enhancing usability in various environments."
+      },
+      {
+        "featureName": "Touchscreen",
+        "tier": "No",
+        "explanation": ""
+      },
+      {
+        "featureName": "Connectivity",
+        "tier": "Standard",
+        "explanation": "Equipped with multiple USB-C ports and Thunderbolt connectivity, this laptop supports a variety of peripherals and fast data transfer."
+      },
+      {
+        "featureName": "Security",
+        "tier": "Advanced",
+        "explanation": "The inclusion of a fingerprint sensor enhances security, allowing for quick and secure access to the device."
+      },
+      {
+        "featureName": "DesignStyle",
+        "tier": "Business",
+        "explanation": "The sleek and professional design makes this laptop suitable for business use while maintaining a modern aesthetic."
+      },
+      {
+        "featureName": "Color",
+        "tier": "Grey",
+        "explanation": "Available in a stylish Space Gray color, this laptop offers a sophisticated look that appeals to a wide range of users."
+      }
+    ]
+  },
+  {
+    "Category": "Laptop",
+    "ProductName": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/256GB Blauw QWERTY",
+    "Price": "1.169,-",
+    "PriceIndication": "Expensive",
+    "features": [
+      {
+        "featureName": "Performance",
+        "tier": "High",
+        "explanation": "Equipped with the Apple M2 chip and an octa-core CPU, this laptop delivers exceptional speed and multitasking capabilities, making it ideal for demanding tasks such as video editing and gaming."
+      },
+      {
+        "featureName": "OperatingSystem",
+        "tier": "macOS",
+        "explanation": "Running on macOS, this device offers a seamless user experience with robust app compatibility and a polished interface, perfect for creative professionals and everyday users alike."
+      },
+      {
+        "featureName": "Memory",
+        "tier": "High",
+        "explanation": "With 16 GB of RAM, this laptop ensures smooth performance even when running multiple applications simultaneously, enhancing productivity for users who multitask."
+      },
+      {
+        "featureName": "Storage",
+        "tier": "Medium",
+        "explanation": "The 256 GB SSD provides fast data access and boot times, allowing users to store essential files and applications while enjoying quick performance."
+      },
+      {
+        "featureName": "BuildQuality",
+        "tier": "Standard",
+        "explanation": "Constructed with a metal chassis, this laptop offers a balance of durability and aesthetics, ensuring it withstands daily use while looking sleek."
+      },
+      {
+        "featureName": "ScreenSize",
+        "tier": "Medium",
+        "explanation": "The 13.6-inch display strikes a good balance between portability and usability, making it suitable for both work and entertainment on the go."
+      },
+      {
+        "featureName": "BatteryLife",
+        "tier": "High",
+        "explanation": "With an impressive 18-hour battery life, this laptop allows for extended use without needing to recharge, perfect for users who are frequently on the move."
+      },
+      {
+        "featureName": "Weight",
+        "tier": "Light",
+        "explanation": "Weighing only 1.24 kg, this laptop is highly portable, making it easy to carry around for work, study, or travel."
+      },
+      {
+        "featureName": "ScreenResolution",
+        "tier": "2K",
+        "explanation": "The Liquid Retina display with a resolution of 2560 x 1664 pixels provides stunning clarity and vibrant colors, enhancing the viewing experience for movies and graphics."
+      },
+      {
+        "featureName": "ScreenPanel",
+        "tier": "IPS",
+        "explanation": "Featuring an IPS panel, this laptop offers wide viewing angles and accurate color reproduction, making it ideal for creative tasks and media consumption."
+      },
+      {
+        "featureName": "RefreshRate",
+        "tier": "Medium",
+        "explanation": "With a refresh rate of 60 Hz, this laptop provides smooth visuals for everyday tasks and casual gaming."
+      },
+      {
+        "featureName": "KeyboardFeatures",
+        "tier": "Backlit",
+        "explanation": "The backlit keyboard allows for comfortable typing in low-light conditions, enhancing usability for users who work at night or in dim environments."
+      },
+      {
+        "featureName": "Touchscreen",
+        "tier": "No",
+        "explanation": ""
+      },
+      {
+        "featureName": "Connectivity",
+        "tier": "Standard",
+        "explanation": "Equipped with USB-C ports and Thunderbolt connectivity, this laptop supports fast data transfer and versatile connection options for peripherals."
+      },
+      {
+        "featureName": "Security",
+        "tier": "Advanced",
+        "explanation": "Featuring a fingerprint sensor, this laptop provides enhanced security for user data, allowing for quick and secure login."
+      },
+      {
+        "featureName": "DesignStyle",
+        "tier": "Business",
+        "explanation": "With its sleek and professional design, this laptop is well-suited for business use, making a strong impression in any professional setting."
+      },
+      {
+        "featureName": "Color",
+        "tier": "Blue",
+        "explanation": "Available in a striking blue color, this laptop stands out while still maintaining a sophisticated aesthetic."
+      }
+    ]
+  }
+]
